@@ -1,0 +1,23 @@
+{
+  "name": "eleventy-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clocky/eleventy-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clocky/eleventy-starter/issues"
+  },
+  "homepage": "https://github.com/clocky/eleventy-starter#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "eleventy-sass": "^2.2.1"
+  }
+}
