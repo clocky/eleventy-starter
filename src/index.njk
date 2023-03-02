@@ -3,3 +3,6 @@ layout: base.njk
 title: Hello, world!
 ---
 <h1>Hello, world!</h1>
+{% for team in teams %}
+  <h2>{{ team.name }}</h2>
+{% endfor %}
